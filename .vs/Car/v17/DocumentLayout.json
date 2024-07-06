@@ -5,50 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\carstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\carstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\models\\wheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\models\\wheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\models\\basecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\models\\basecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\cars\\vw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\cars\\vw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\cars\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\cars\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|d:\\source\\car\\car\\interfaces\\iwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8B5D7F-F977-4882-A6EA-A101AA9EED6F}|Car\\Car.csproj|solutionrelative:car\\interfaces\\iwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|d:\\source\\car\\car.test\\carstocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|solutionrelative:car.test\\carstocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|d:\\source\\car\\car.test\\models\\basecartest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|solutionrelative:car.test\\models\\basecartest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|d:\\source\\car\\car.test\\carfactorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|solutionrelative:car.test\\carfactorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|d:\\source\\car\\car.test\\mocks\\basecarmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72F075C1-7334-4823-AAF3-D3A6F30D01D9}|Car.Test\\Car.Test.csproj|solutionrelative:car.test\\mocks\\basecarmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,154 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Wheel.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\Models\\Wheel.cs",
-              "RelativeDocumentMoniker": "Car\\Models\\Wheel.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\Models\\Wheel.cs",
-              "RelativeToolTip": "Car\\Models\\Wheel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T15:00:29.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IWheel.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\Interfaces\\IWheel.cs",
-              "RelativeDocumentMoniker": "Car\\Interfaces\\IWheel.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\Interfaces\\IWheel.cs",
-              "RelativeToolTip": "Car\\Interfaces\\IWheel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T13:56:58.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseCarMock.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car.Test\\Mocks\\BaseCarMock.cs",
-              "RelativeDocumentMoniker": "Car.Test\\Mocks\\BaseCarMock.cs",
-              "ToolTip": "D:\\Source\\Car\\Car.Test\\Mocks\\BaseCarMock.cs",
-              "RelativeToolTip": "Car.Test\\Mocks\\BaseCarMock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T22:00:43.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseCarTest.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car.Test\\Models\\BaseCarTest.cs",
-              "RelativeDocumentMoniker": "Car.Test\\Models\\BaseCarTest.cs",
-              "ToolTip": "D:\\Source\\Car\\Car.Test\\Models\\BaseCarTest.cs",
-              "RelativeToolTip": "Car.Test\\Models\\BaseCarTest.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:00:46.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseCar.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\Models\\BaseCar.cs",
-              "RelativeDocumentMoniker": "Car\\Models\\BaseCar.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\Models\\BaseCar.cs",
-              "RelativeToolTip": "Car\\Models\\BaseCar.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T20:32:43.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CarFactoryTest.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car.Test\\CarFactoryTest.cs",
-              "RelativeDocumentMoniker": "Car.Test\\CarFactoryTest.cs",
-              "ToolTip": "D:\\Source\\Car\\Car.Test\\CarFactoryTest.cs",
-              "RelativeToolTip": "Car.Test\\CarFactoryTest.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:30:30.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarFactory.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\CarFactory.cs",
-              "RelativeDocumentMoniker": "Car\\CarFactory.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\CarFactory.cs",
-              "RelativeToolTip": "Car\\CarFactory.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBUAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:21:42.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VW.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\Cars\\VW.cs",
-              "RelativeDocumentMoniker": "Car\\Cars\\VW.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\Cars\\VW.cs",
-              "RelativeToolTip": "Car\\Cars\\VW.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T20:29:07.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ford.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\Cars\\Ford.cs",
-              "RelativeDocumentMoniker": "Car\\Cars\\Ford.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\Cars\\Ford.cs",
-              "RelativeToolTip": "Car\\Cars\\Ford.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T20:25:54.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarStockTest.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car.Test\\CarStockTest.cs",
-              "RelativeDocumentMoniker": "Car.Test\\CarStockTest.cs",
-              "ToolTip": "D:\\Source\\Car\\Car.Test\\CarStockTest.cs",
-              "RelativeToolTip": "Car.Test\\CarStockTest.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAowHYAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T15:58:15.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarStock.cs",
-              "DocumentMoniker": "D:\\Source\\Car\\Car\\CarStock.cs",
-              "RelativeDocumentMoniker": "Car\\CarStock.cs",
-              "ToolTip": "D:\\Source\\Car\\Car\\CarStock.cs",
-              "RelativeToolTip": "Car\\CarStock.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAA7wGsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T13:19:24.117Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -214,10 +24,14 @@
               "RelativeDocumentMoniker": "Car\\Program.cs",
               "ToolTip": "D:\\Source\\Car\\Car\\Program.cs",
               "RelativeToolTip": "Car\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:26:35.575Z",
+              "WhenOpened": "2024-07-06T17:13:05.008Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
