@@ -39,7 +39,7 @@ namespace Car.Models
             }
 
             this.InventoryNr = inventoryNr;
-            this.Manufacturer = Manufacturer.Ford;
+            this.Manufacturer = manufacturer;
             this.Vintage = vintage;
             this.MaxSpeed = maxSpeed;
         }
